@@ -33,7 +33,12 @@ background-color: #e0e0e0;
     font-family: "Helvetica";
     border: 1px solid red;
     text-align: center;
-    text-shadow: none;
+    text-shadow:
+	-1px -1px 0 #fef,
+	1px -1px 0 #fef,
+	-1px 1px 0 #fef,
+	1px 1px 0 #fef;
+    text-background: URL("hair.png");
     
 }
 figcaption{
