@@ -1,5 +1,5 @@
 #header{
-    background-color: #563117;
+    background-color: #563117, ffd4b7;
     text-align: left;
     border-style:double;
 	margin: auto;
@@ -21,7 +21,8 @@ a{
 }
 
 body{
-background-color: #563117;
+background-color: #563117, #ffd4b7;
+	width: 75%, 100%;
 }
 #pictures{
     width:100%;
